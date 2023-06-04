@@ -59,9 +59,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Learn <span>-&gt;</span>
+            Webror <span>-&gt;</span>
           </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
+          <p>Webror is a technologies of develoepment &nbsp;quizzes!</p>
         </a>
 
         <a
